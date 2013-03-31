@@ -7,5 +7,8 @@ use for this script then I would rewrite it to eliminate the use of
 [DOM element properties][2] as they are a pretty fragile approach to
 event handling.
 
+There is [more documentation][3] on my website.
+
 [1]: http://www.w3.org/TR/selectors/#target-pseudo
 [2]: https://developer.mozilla.org/en-US/docs/DOM/event
+[3]: http://dorward.me.uk/software/frag/
